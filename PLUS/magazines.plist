@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FileName</key>
+		<string>Edisi_7/Edisi_7.pdf</string>
+		<key>Subtitle</key>
+		<string>Mac 2014</string>
+		<key>Title</key>
+		<string>Kembara PLUS online edisi 7</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>Edisi_6/Edisi_6.pdf</string>
+		<key>Subtitle</key>
+		<string>Januari/Februari 2014</string>
+		<key>Title</key>
+		<string>Kembara PLUS online edisi 6</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>Edisi_5/Edisi_5.pdf</string>
+		<key>Subtitle</key>
+		<string>Dicember 2013</string>
+		<key>Title</key>
+		<string>Kembara PLUS online edisi 5</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>Edisi_4/Edisi_4.pdf</string>
+		<key>Subtitle</key>
+		<string>November 2013</string>
+		<key>Title</key>
+		<string>Kembara PLUS online edisi 4</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>Edisi_3/Edisi_3.pdf</string>
+		<key>Subtitle</key>
+		<string>Oktober 2013</string>
+		<key>Title</key>
+		<string>Kembara PLUS online edisi 3</string>
+	</dict>
+	<dict>
+		<key>FileName</key>
+		<string>Edisi_1/Edisi_1.pdf</string>
+		<key>Subtitle</key>
+		<string>Ogos 2013</string>
+		<key>Title</key>
+		<string>Kembara PLUS online edisi 1</string>
+	</dict>
+</array>
+</plist>
